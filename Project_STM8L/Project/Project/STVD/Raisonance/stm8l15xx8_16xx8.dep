@@ -1,0 +1,8 @@
+;	STMicroelectronics dependencies file
+
+[Version]
+Keyword=ST7Project
+Number=1.3
+
+[Root.STM8L15x_StdPeriph_Driver...\..\..\..\libraries\stm8l15x_stdperiph_driver\src\stm8l15x_wwdg.c.Config.0]
+ExternDep=..\..\..\..\libraries\stm8l15x_stdperiph_driver\src\stm8l15x_wwdg.c 
